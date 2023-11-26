@@ -1162,6 +1162,7 @@ color: #d5d5d5;
     background-color: #eee;
     position: relative;
 
+
 }
 
 .our-skills .skill .theprogress span{
@@ -1170,7 +1171,7 @@ color: #d5d5d5;
     top: 0;
     height: 100%;
    background-color: var(--main-color);
-    
+   transition: width 0.4s linear;
 }
 
 
